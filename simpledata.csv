@@ -1,9 +1,9 @@
 name,gender,height,weight,score
-Anda,female,150,48.7,30
+Anda,female,150,,30
 Bordin,male,170,63,30
 Chantana,female,145,45,35
 Donlaya,female,155,50,35
 Ekkasit,male,178,75,30
 Fundee,female,152,51,40
-Gitiwit,male,175,68,25
+Gitiwit,,175,68,25
 Harit,male,172,80,190
