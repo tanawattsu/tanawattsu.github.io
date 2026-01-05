@@ -1,4 +1,4 @@
-price_thb,down_payment_min_thb
+price,down_payment
 414957,62000
 455412,70000
 533004,79000
@@ -48,4 +48,5 @@ price_thb,down_payment_min_thb
 567125,90000
 804447,125000
 3982192,698000
+
 3775831,673000
