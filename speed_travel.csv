@@ -1,4 +1,4 @@
-avg_speed_kmh,travel_time_min
+speed,travel_time
 93,80.4
 51.5,143.4
 93.7,87.6
@@ -48,4 +48,5 @@ avg_speed_kmh,travel_time_min
 110.3,65.3
 93.1,85.4
 58.4,137.8
+
 53.7,149.3
